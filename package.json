@@ -1,0 +1,7 @@
+{
+  "name": "create-demo-gp1",
+  "version": "1.0.0",
+  "bin": {
+    "create-demo-g2" :"index.js"
+  }
+}
